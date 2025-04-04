@@ -1,0 +1,5 @@
+=== Model Evaluation Report ===
+Model: GaussianNB
+Accuracy:  0.5124
+Precision: 0.5000
+Recall:    0.3652

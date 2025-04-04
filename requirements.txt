@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+pandas-profiling
+pydantic
+ydata_profiling
+tpot
+imbalanced-learn
